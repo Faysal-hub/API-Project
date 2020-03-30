@@ -1,0 +1,1 @@
+In this project, I showed, how to make a HTTP request by python. I used a website(https://icanhazdadjoke.com) where there have lots of joke in verious topics. I collected the data from website in JSON format. 
